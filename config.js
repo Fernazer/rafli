@@ -24,7 +24,7 @@ global.APIKeys = { // APIKey Here
   'https://api.xteam.xyz': 'HIRO',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://bsbt-api-rest.herokuapp.com': 'benniismael',
-  'https://api.zeks.xyz': 'PmzFe9Hq4xYdwha6pxiXd9jgLnh',
+  'https://api.zeks.xyz': 'FERNAZER',
   'https://hardianto-chan.herokuapp.com': 'hardianto',
   'https://pencarikode.xyz': 'pais', 
   'https://leyscoders-api.herokuapp.com': 'MIMINGANZ' 
